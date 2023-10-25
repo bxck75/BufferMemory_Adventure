@@ -1,7 +1,0 @@
-echo "# LangChain BufferMemory Adventure" >> README.md
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/bxck75/BufferMemory_Adventure.git
-git push -u origin main
