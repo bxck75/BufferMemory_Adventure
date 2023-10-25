@@ -10,6 +10,7 @@ Add a value to the db_token.json file like
 ```json
 "keyspace": "your key space here"
 ```
+# Create the env and install requirements
 
 ```bash
 python -m venv adventure_env
